@@ -1,0 +1,27 @@
+margin:18vh 0;
+
+Es igual que tener
+margin-top: 18vh;
+margin-right: 0px;
+margin-bottom: 18vh;
+margin-left: 0px;
+
+***
+padding: 12px 22px;
+padding
+
+
+margin espaciado exterior del elemento (separar el elemento de otros elementos a su alrededor)
+
+padding espaciado interno del elemento (para hacerlo más grande)
+
+De línea: a
+De bloque: se puede manipular como titular
+
+display: inline-block -> Línea como bloque
+
+https://www.cssmatic.com/gradient-generator
+https://www.cssmatic.com/es/box-shadow
+
+Hay una página que se llama dimmy club (pueden buscarla en google) donde vos subis una imágen y automáticamente te crea un mockup en muchos dispositivos. Es la herramienta que usé para generar los mockups que ven en mi página web :)
+
