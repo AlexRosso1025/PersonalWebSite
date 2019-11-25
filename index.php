@@ -57,10 +57,8 @@
                         <img class="computer" src="images/html.png">
                     </div>
                     <div class="text">
-                        <p>Mi nombre es Alexander Quintero Rosso, soy Estudiante de Ingenieria Informática del
-                            Politécnico Jaime Isaza Cadavid. Tengo 24 años y soy un apasionado del desarrollo web.</p>
-                        <p>Actualmente trabajo como Analista de Pruebas en Sophos Solutions.</p>
-                        <p>¿Sigueme y te sigo?</p>
+                        <p>Mi nombre es Alexander Quintero Rosso, Estudiante de Ingenieria Informática del Politécnico Jaime Isaza Cadavid, apasionado del desarrollo web y nuevas tecnologías.</p>
+                        <p>Analista de pruebas, Automatizador,Desarrollador Web Full Stack en Formación.</p>
                         <a class="a-about-me" href="#my-tasks">VER TRABAJOS</a>
                     </div>
                 </div>
