@@ -139,9 +139,7 @@
                         <ul>
                             <li><img src="images/speed.png" alt=""></li>
                             <li>Velocidad</li>
-                            <li>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores aperiam quam minus
-                                magnam nulla dolorem molestiae corporis inventore aut rem ipsam laudantium, doloremque
-                                perspiciatis ipsum cupiditate sed omnis, tenetur fugit?</li>
+                            <li>Al conocer el alcance de tu proyecto, pondremos nuestros intereses en él.</li>
                         </ul>
                     </div>
                     <div class="item">
@@ -193,7 +191,7 @@
         <section id="what-hope">
             <div class="container">
                 <h3>¿Qué esperas para tener tu página web?</h3>
-                <a href="">Charlemos</a>
+                <a href="#contact">Charlemos</a>
             </div>
         </section>
 
